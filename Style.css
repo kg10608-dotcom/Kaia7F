@@ -1,0 +1,23 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Cookie recipe.</title>
+</head>
+
+
+/* Change the background of the entire visible page */
+body {
+    background-color: #f0f0f0; /* White */
+}
+
+/* Style for all paragraphs */
+p {
+    color:Brown;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px Gold ; /* Adds an Gold border around the heading */
+    padding: 10px; /* Adds space inside the border */
