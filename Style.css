@@ -6,14 +6,14 @@
 
 /* Change the background of the entire visible page */
 body {
-    background-color: #f0f0f0; /* White */
+    background-color:#F5EDDC ; /* Beige */
 }
 
 /* Style for all paragraphs */
 p {
     color:Black;
     font-size: 16px;
-    font-family: 'Times New Roman', serif;
+    font-family: 'Rubik', serif;
 }
 
 /* Style for the main heading */
